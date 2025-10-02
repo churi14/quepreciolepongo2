@@ -8,7 +8,7 @@ import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
 import Costo from "./pages/Costo";
 import Nosotros from "./pages/Nosotros";
-import Contacto from "./pages/contacto";
+import Contacto from "./pages/contacto.tsx";
 import CalculaTuSueldo from './pages/CalculaTuSueldo';
 
 
